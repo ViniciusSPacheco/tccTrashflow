@@ -1,3 +1,3 @@
 -TrasFlow
 -Sistema de reaproveitamento de lixo
--Vinicius e João Hélio
+-Vinicius Santos Pacheco e João Hélio Baumgarten Oliveira
